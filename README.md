@@ -1802,17 +1802,17 @@ https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblive
 #EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="Supersport",SS Motorsport
 https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO (INDI)
+EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO (INDI)
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Hits (INDI)
+EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Hits (INDI)
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Family (INDI)
+EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Family (INDI)
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Signature (INDI)
+EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Signature (INDI)
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",Cinemax(INDI)
+EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",Cinemax(INDI)
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 

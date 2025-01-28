@@ -1757,18 +1757,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTINF:-1 tvg-id="beINSports5" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
-EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO (INDI)
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
-EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Hits (INDI)
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Family (INDI)
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",HBO Signature (INDI)
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
-EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",Cinemax(INDI)
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="MOVIES", ZEE CINEMA INDIA_HD (S)
 http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
 

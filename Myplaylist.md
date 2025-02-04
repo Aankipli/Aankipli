@@ -1508,9 +1508,6 @@ http://epg.112114.xyz/douyu/252802
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijuplus-sport-se-ru.png" group-title="Sports", Viju+ Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sports", WWE NETWORK 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1518,15 +1515,7 @@ https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF: -1 tvg-name="Ten Cricket" group-title="Sports", Ten Cricket
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201956.m3u8
-
-
-
-#EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="Sports", Ten Sports HD
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/376442.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
+#EXTINF: -1 tvg-name="Ten #EXTINF:-1 group-title="Sports" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f

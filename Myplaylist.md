@@ -1139,17 +1139,7 @@ https://alpukat-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="MOVIES",Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/Zeecinemalu1.m3u8
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/55210
-https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/789a18ef-be90-4f0d-9b66-4b24ed9342c7:TPE2/variant/ccdf2687bee8d157a997eb576254e6f2/bandwidth/699600.m3u8
-https://mhdtv.co.in/jio/stream.php?segment=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06d8fb00911c26442a9f516e9e974ce7e1f414eaf7f6b089e2a9782823915070b73b167a77fc0c2edc5bbc2e627e740e660a647f49a3dcf9be2ab03cc62fd9965b7fdc7378a262ab05cced4b4caaf1e3346b8d0fa6ff87f9a8107b36edb7552fedd&vtoken=
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-
-EXTINF:-1 tvg-logo="https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-1.57.09-PM.png" group-title="MOVIES",Redbox 3: Rush
-https://rush-redbox.amagi.tv/playlist.m3u8
-
-EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260" group-title="MOVIES",Black Cinema
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 
 #EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-chno="1295" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20220621T075904.png" group-title="MOVIES",NEW KMOVIES

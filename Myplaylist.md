@@ -535,7 +535,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd|u
 #EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network" tvg-logo="https://warningfm.github.io/v3/img/MtO1ReC.png?v=1.1.1.1" group-title="SPORTS", Fight Network
 http://cdn.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
 
-#EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png" group-title="SPORTS" , BEIN SPORTS XTRA 🇺🇸
+#EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png" group-title="SPORTS", BEIN SPORTS XTRA 🇺🇸
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 

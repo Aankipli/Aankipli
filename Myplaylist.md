@@ -767,14 +767,6 @@ EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies HD" tvg-logo="https://iili.
 https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|Referer=https://www.visionplus.id
 http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WNQ7dqZ5/OIP-15-removebg-preview.png" group-title="Movies",WOWOW Cinema
-https://luong.utako.moe/wcinema/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/88/WOWOW_Prime.png/revision/latest?cb=20170708073145" group-title="Movies",WOWOW Prime
-https://luong.utako.moe/wprime/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tMdSr4YY/Wowow-live.jpg" group-title="Movies",WOWOW Live
-https://luong.utako.moe/wlive/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" tvg-id="" tvg-name="" group-title="Movies",Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey

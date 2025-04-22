@@ -3,11 +3,10 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://iili.io/Jmf9A4S.png" group-title="Nasional", ANTV
+#EXTINF:-1 group-title="V++" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 #EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne/sa_dash/TVOne.mpd
 
-https://d1abp075u76pbq.cloudfront.net/live/eds/ANTV/sa_dash/ANTV.mpd|Referer=https://www.visionplus.id
-http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81

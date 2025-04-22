@@ -3,8 +3,10 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="V++" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 #EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash/ANTV.mpd
+
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne/sa_dash/TVOne.mpd
 
 

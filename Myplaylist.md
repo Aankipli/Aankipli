@@ -1299,7 +1299,7 @@ https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/zeecinemalu.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" group-title="Movie", &Prive HD
+#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" group-title="Movies", &Prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 

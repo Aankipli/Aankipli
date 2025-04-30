@@ -709,7 +709,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemach
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="Movies", Buddy Star
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd|Referer=https://www.visionplus.id
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="Movies", Flik
@@ -717,38 +716,36 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
-EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://iili.io/Jmo9aXn.png" group-title="Movies", Galaxy
-https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://iili.io/Jmo9aXn.png" group-title="Movies", Galaxy
+##http://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|Referer=https://www.visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
-EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://iili.io/Jmo9YzX.png" group-title="Movies", Galaxy Premium
-https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://iili.io/Jmo9YzX.png" group-title="Movies", Galaxy Premium
+##http://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 #EXTINF:-1 tvg-id="HITSMovies.id" tvg-name="Hits Movies" tvg-logo="https://iili.io/Jmo9V72.png" group-title="Movies", Hits Movies
-https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/HitsMovies/sa_dash/HitsMovies.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://iili.io/Jmny4iG.png" group-title="Movies", IMC
-https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
-EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://iili.io/Jmny4iG.png" group-title="Movies", IMC
-https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://iili.io/JZICJNS.png" group-title="Movies", KIX
-https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd|Referer=https://www.visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/KIX/sa_dash/KIX.mpd|Referer=https://www.visionplus.id
 http://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+xxxxx
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-name="My Cinema" tvg-logo="https://iili.io/Jmo9Xm7.png" group-title="Movies", My Cinema
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD

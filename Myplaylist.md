@@ -940,6 +940,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://edge2-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD*
+https://otttv.co.in/d2h/siaran langsung/sony-pix-hd/master.m3u8
+
+
+
 ########HBO GROUP########
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/

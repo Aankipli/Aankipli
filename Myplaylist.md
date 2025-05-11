@@ -246,7 +246,7 @@ http://cdn.nng.cloudns.us/live/m3u8/knl/cgtndocumentary.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://iili.io/JZIBpS4.png" group-title="Knowledge", Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd|Referer=https://www.visionplus.id
+https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -285,7 +285,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd|user-agent=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="GlobalTrekker" tvg-name="Global Trekker" tvg-logo="https://iili.io/JmoCrWQ.png" group-title="Knowledge", Global Trekker
-https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|Referer=https://www.visionplus.id
+https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72

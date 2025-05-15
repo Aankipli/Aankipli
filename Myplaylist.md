@@ -735,6 +735,29 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
 https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" group-title="SPORTS", ESPN 1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bb43112b7b72e9c287da0ecdec8606a7":"29e3d2678107f0ab0b35b6537c734f2a"}
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPNHD/dash/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mksxWpNC/worldtv2.png" group-title="SPORTS", ESPN 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"90e2e491c850a49a5ab21bb6fa6b4d24":"4d7e33da19b971cef49e35eccdb9de0b"}
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN2HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t6xT16y/worldtv2.png" group-title="SPORTS", ESPN 3
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0355f64277082b903022985035c498ca":"7a8ed20a4958398677e2c9ccd5a53a00"}
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN3HD/dash/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" group-title="SPORTS", ESPN 4
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2b087348dcaa1bd66a86a4fc7150abc9":"13fb668260b5c982f0c756aeb1ea072d"}
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN4HD/default.mpd
 
 
 

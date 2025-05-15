@@ -366,13 +366,6 @@ https://zekonew.newkso.ru/zeko/premium126/mono.m3u8|referer=https://pkpakiplay.x
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
@@ -647,6 +640,84 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|Referer=https://www.visionplus.id
 
 ----------Sport Europa-----------
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNNGg4Cv/sky-sports-laliga.png" group-title="SPORTS", SKY Sports LaLiga
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c88dc6c668cac3b468d4a4c7e176ff3d":"1aeb739de2c14ed0ad658ca8043208d8"}
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNJcP2NR/sky-sports-bundesliga.png" group-title="SPORTS", SKY Sports Bundesliga
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d8d5823d92a9ef9306a4cc4bd634b4b4":"df9fbdaa0ef9e905b75f4692f213af19"}
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="SPORTS", TNT
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dca8597f12f8d6928b55c1291c7bb300":"36c8b3f51d474b95f0adad70899343e1"}
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNTHD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Sports
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"335511dfdf0d03bc06f1fdead5870b5a":"1a022fb33ad3de4d4579b04966551488"}
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Sports 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"99909032389c6ee41c3d2f3ec829f804":"41fbc575c8ef1cdac1dca990c9a0df9d"}
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Evento 1 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a3636a51227fa338cdddf5892d8a621c":"1444ee3c4d08bf39454b914f797968eb"}
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Evento 2 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7239a58fb7388b222a834d549bf18d8f":"8b04a883e88dbdebc43673d998ea1cb2"}
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Evento 3 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"561a21ad50f806b77d328dedbe59f93e":"edf3e70cc9de81a73e2a00fe9c0611a8"}
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Evento 4 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a931b2e953695ffb0cfd38573e97ba33":"4ddd99cc4fb168d7f0e20be8a3287100"}
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Evento 5 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6c89e84c52eae0428b7d2c8e887a48ec":"758a1484f920a0f1aa73e95d5f2be225"}
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Evento 6 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6c89e84c52eae0428b7d2c8e887a48ec":"758a1484f920a0f1aa73e95d5f2be225"}
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Evento 7 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6c89e84c52eae0428b7d2c8e887a48ec":"758a1484f920a0f1aa73e95d5f2be225"}
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="SPORTS", SKY Evento 8 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6c89e84c52eae0428b7d2c8e887a48ec":"758a1484f920a0f1aa73e95d5f2be225"}
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 

@@ -661,6 +661,8 @@ https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c88dc6c668cac3b468d4a4c7e176ff3d":"1aeb739de2c14ed0ad658ca8043208d8"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNJcP2NR/sky-sports-bundesliga.png" group-title="SPORTS", SKY Sports Bundesliga
@@ -774,6 +776,8 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN3HD/dash/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2b087348dcaa1bd66a86a4fc7150abc9":"13fb668260b5c982f0c756aeb1ea072d"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN4HD/default.mpd
 
 

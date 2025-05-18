@@ -18,6 +18,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://iili.io/Jmf9A4S.png" group-title="Nasional", ANTV
+http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+
 https://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.m3u|Referer=https://www.visionplus.id
 http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 

@@ -353,17 +353,18 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS",Astro SuperSport 1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Asia",Astro SuperSport 1
+https://josh9456-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS",Astro SuperSport 2
-https://windnew.newkso.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Asia",Astro SuperSport 2
+https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium124/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS",Astro SuperSport 3
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Asia",Astro SuperSport 3
+https://josh9456-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS",Astro SuperSport 4
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Asia",Astro SuperSport 4
+https://josh9456-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+
 
 
 

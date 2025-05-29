@@ -55,7 +55,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://iili.io/JMp3joP.png" group-title="Nasional", GTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="IDTV.id" tvg-name="IDTV" tvg-logo="https://iili.io/28yoeNn.png" group-title="Nasional",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
@@ -78,7 +78,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="Nasional", iNews
-https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -86,7 +86,7 @@ https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="Nasional", Kompas TV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash/KompasTV.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd|Referer=https://www.visionplus.id
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -98,7 +98,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="https://iili.io/2Sg7qyF.png" group-title="Nasional", MDTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd|Referer=https://www.visionplus.id
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -114,7 +114,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://iili.io/JMp3kla.png" group-title="Nasional", MNCTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
@@ -145,14 +145,14 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://iili.io/JMp36xI.png" group-title="Nasional", RCTI
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://iili.io/JMp3PVt.png" group-title="Nasional", RTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash/RTV.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd|Referer=https://www.visionplus.id
 http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -173,7 +173,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-logo="https://iili.io/JV3xLAl.png" group-title="Nasional", SEA Today
-https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd|Referer=https://www.visionplus.id
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
 
@@ -189,14 +189,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash/Trans7-2.mpd|Refe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="Nasional", TransTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="tvOne.my.id" tvg-name="TVOne" tvg-logo="https://iili.io/JV3xDo7.png" group-title="Nasional", TVOne
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash/TVOne-2.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd|Referer=https://www.visionplus.id
 http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 

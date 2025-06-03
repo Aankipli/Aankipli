@@ -655,28 +655,28 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
-
-#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.2" tvg-id="DAZN.2.de" tvg-logo="https://logo.iptveditor.com/dazn2.png" group-title="SPORTS",DAZN 2 🇩🇪 
+xx
+EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.2" tvg-id="DAZN.2.de" tvg-logo="https://logo.iptveditor.com/dazn2.png" group-title="SPORTS",DAZN 2 🇩🇪 
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNNGg4Cv/sky-sports-laliga.png" group-title="SPORTS", SKY Sports LaLiga
+EXTINF:-1 tvg-logo="https://i.postimg.cc/bNNGg4Cv/sky-sports-laliga.png" group-title="SPORTS", SKY Sports LaLiga
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
-
+xxc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNJcP2NR/sky-sports-bundesliga.png" group-title="SPORTS", SKY Sports Bundesliga
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d8d5823d92a9ef9306a4cc4bd634b4b4":"df9fbdaa0ef9e905b75f4692f213af19"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/index.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="Movies", TNT
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=

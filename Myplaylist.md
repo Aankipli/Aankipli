@@ -2116,7 +2116,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
+xxx
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="Movies",CINEMAX
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+xxx
+
+EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 

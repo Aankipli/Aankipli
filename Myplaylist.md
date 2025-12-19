@@ -1175,7 +1175,7 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
 
 
 
-#EXTINF:-1  tvg-name="IQIYI" tvg-id="iQIYI.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/iqiyi-my.png" group-title="Movies",IQIYI
+EXTINF:-1  tvg-name="IQIYI" tvg-id="iQIYI.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/iqiyi-my.png" group-title="Movies",IQIYI
 https://ott.udptv.org/stream/astro/iqiyi/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1  tvg-name=" tvg-id="" tvg-logo="" group-title="Movies",Star Movies Gold
@@ -1193,8 +1193,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://mimipipi22.github.io/logo/entertainment/sonymax.jpg" group-title="Movies", Sony MAX
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
+
+xxxxx
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
